@@ -35,6 +35,7 @@ ActiveRecord::Schema.define(version: 3) do
     t.string "name"
     t.float "location"
     t.string "theme"
+    t.float "price"
   end
 
 end
