@@ -1,4 +1,4 @@
-class CreateCostumes < ActiveRecord::Migration
+class CreateCostumes < ActiveRecord::Migration[4.2]
 end
 
 # By convention, the class name should match the part of the
