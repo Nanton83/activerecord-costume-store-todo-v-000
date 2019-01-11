@@ -37,6 +37,7 @@ ActiveRecord::Schema.define(version: 3) do
     t.string "theme"
     t.integer "price"
     t.boolean "family_friendly"
+    t.date "opening_date"
   end
 
 end
